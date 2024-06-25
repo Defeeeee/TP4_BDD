@@ -7,7 +7,8 @@
     "scripts": {
         "start": "node index.js",
         "dev": "npx nodemon index.js",
-        "test": "node tests/test.js"
+        "test": "node tests/test.js",
+        "vercel-build": "echo 'vercel-build'"
     },
     "author": "",
     "license": "ISC",
